@@ -9,7 +9,7 @@ Open your terminal window and run the following commands :
 
 # Run The Test
 
-To run the test open a terminal window in the project directory and run :
+To run the tests open a terminal window in the project directory and run :
 
 ```
 ~$ npm test

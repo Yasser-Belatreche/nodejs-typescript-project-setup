@@ -15,4 +15,4 @@ To run the test open a terminal window in the project directory and run :
 ~$ npm test
 ```
 
-> You can remove the folder `src/temp` if you want, It's just contains a credit and not envolved with the project
+> You can remove the folder `src/temp` if you want, It's just contains a credit and not involved with the project

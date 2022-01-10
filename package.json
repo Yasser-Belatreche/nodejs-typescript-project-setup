@@ -1,8 +1,8 @@
 {
-  "name": "chat-app-api",
+  "name": "nodejs-ts-project-setup",
   "version": "1.0.0",
   "private": false,
-  "description": "The api of a Chat app built with React Native",
+  "description": "A ready-to-use structured Node.js server initialized with \"Typescript, express, mocha/chai and sinon/faker\" to skip the tedious task of installing every dependency needed and dive directly into the fun part, coding",
   "author": "Yasser Belatreche",
   "license": "MIT",
   "main": "src/index.ts",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "'change this later'"
+    "url": "https://github.com/Yasser-Belatreche/nodejs-typescript-project-setup"
   },
   "keywords": [
     "api",
